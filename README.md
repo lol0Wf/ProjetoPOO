@@ -1,4 +1,5 @@
 LINK DO JIRA : https://duduzuri.atlassian.net/jira/software/projects/SCRUM/boards/1
+(caso tenha alguma restrição, o jira está permitido para o email william.deus@ifpr.edu.br)
 
 Nesse projeto foi utilizado os seguintes programas!
 
