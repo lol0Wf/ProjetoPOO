@@ -6,27 +6,27 @@ LINK QUANT-UX : https://app.quant-ux.com/#/test.html?h=a2aa10aWKmyK7GbeujOUL5jgS
 Nesse projeto foi utilizado os seguintes programas!
 
 BANCO DE DADOS:
--Xampp(utilizado em maquina própria)
--MYSQL WorkBanch(utilizado em sala de aula pois os computadores não possuem xampp)
+<br>-Xampp(utilizado em maquina própria)
+<br>-MYSQL WorkBanch(utilizado em sala de aula pois os computadores não possuem xampp)
 https://www.apachefriends.org/pt_br/index.html (xampp)
 https://www.apachefriends.org/pt_br/index.html (mySQL)
 
 CONFECÇÂO DO CÓDIGO:
--VSCODE(utilizado em sala e em casa)
+<br>-VSCODE(utilizado em sala e em casa)
 https://code.visualstudio.com/
   
 PROTOTIPAÇÃO DO PROJETO:
--GitHub(utilizado para a postagem de documentos e arquivos)
+<br>-GitHub(utilizado para a postagem de documentos e arquivos)
 https://app.diagrams.net/
--Quant-Ux(utilizado para prototipação do projeto)
+<br>-Quant-Ux(utilizado para prototipação do projeto)
 https://quant-ux.com/
--Jira(utilizado para monitoramento de tarefas e acompanhamento de projeto)
+<br>-Jira(utilizado para monitoramento de tarefas e acompanhamento de projeto)
 https://www.atlassian.com/br/software/jira
 
 DIAGRAMAS E TABELAS:
--Draw.io (utilizado em sala e em casa)
+<br>-Draw.io (utilizado em sala e em casa)
 https://app.diagrams.net/
 
 CONFECÇÂO DE DOCUMENTOS:
--OverLeafLATEX(utilizado para documentos, sendo usado em sala e em casa)
+<br>-OverLeafLATEX(utilizado para documentos, sendo usado em sala e em casa)
 https://www.overleaf.com/
