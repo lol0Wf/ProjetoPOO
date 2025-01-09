@@ -1,6 +1,8 @@
 LINK DO JIRA : https://duduzuri.atlassian.net/jira/software/projects/SCRUM/boards/1
 (caso tenha alguma restrição, o jira está permitido para o email william.deus@ifpr.edu.br)
 
+LINK QUANT-UX : https://app.quant-ux.com/#/test.html?h=a2aa10aWKmyK7GbeujOUL5jgSQTXyF8LKMdVAbmW8MFRf7GQCLY8Cmw1GmdO&ln=en
+
 Nesse projeto foi utilizado os seguintes programas!
 
 BANCO DE DADOS:
@@ -16,7 +18,11 @@ https://code.visualstudio.com/
 PROTOTIPAÇÃO DO PROJETO:
 -GitHub(utilizado para a postagem de documentos e arquivos)
 https://app.diagrams.net/
-    
+-Quant-Ux(utilizado para prototipação do projeto)
+https://quant-ux.com/
+-Jira(utilizado para monitoramento de tarefas e acompanhamento de projeto)
+https://www.atlassian.com/br/software/jira
+
 DIAGRAMAS E TABELAS:
 -Draw.io (utilizado em sala e em casa)
 https://app.diagrams.net/
