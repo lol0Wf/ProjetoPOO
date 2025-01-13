@@ -1,5 +1,5 @@
 <br>VERSÂO DO PROJETO : 2.0.1
-LINK DO JIRA : https://duduzuri.atlassian.net/jira/software/projects/SCRUM/boards/1
+<br>LINK DO JIRA : https://duduzuri.atlassian.net/jira/software/projects/SCRUM/boards/1
 (caso tenha alguma restrição, o jira está permitido para o email william.deus@ifpr.edu.br)
 
 LINK QUANT-UX : https://app.quant-ux.com/#/test.html?h=a2aa10aWKmyK7GbeujOUL5jgSQTXyF8LKMdVAbmW8MFRf7GQCLY8Cmw1GmdO&ln=en
