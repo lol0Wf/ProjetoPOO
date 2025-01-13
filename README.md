@@ -1,4 +1,4 @@
-VERSÂO DO PROJETO : 2.0.1
+<br>VERSÂO DO PROJETO : 2.0.1
 LINK DO JIRA : https://duduzuri.atlassian.net/jira/software/projects/SCRUM/boards/1
 (caso tenha alguma restrição, o jira está permitido para o email william.deus@ifpr.edu.br)
 
