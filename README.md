@@ -14,6 +14,8 @@ https://www.apachefriends.org/pt_br/index.html (mySQL)
 CONFECÇÂO DO CÓDIGO:
 <br>-VSCODE(utilizado em sala e em casa)
 https://code.visualstudio.com/
+<br>-INTELLIJ IDEA(utilizado em casa)
+https://lp.jetbrains.com/intellij-idea-promo/?msclkid=9677849738a811430156e31354198cfa&utm_source=bing&utm_medium=cpc&utm_campaign=AMER_en_BR_IDEA_Branded&utm_term=intellij%20IDEA&utm_content=intellij%20idea
   
 PROTOTIPAÇÃO DO PROJETO:
 <br>-GitHub(utilizado para a postagem de documentos e arquivos)
