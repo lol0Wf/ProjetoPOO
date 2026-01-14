@@ -1,35 +1,62 @@
-<br>VERSÂO DO PROJETO : 2.0.1
-<br>LINK DO JIRA : https://duduzuri.atlassian.net/jira/software/projects/SCRUM/boards/1
-(caso tenha alguma restrição, o jira está permitido para o email william.deus@ifpr.edu.br)
+# Projeto Integrado – Engenharia de Software, POO e Banco de Dados
 
-LINK QUANT-UX : https://app.quant-ux.com/#/test.html?h=a2aa10aWKmyK7GbeujOUL5jgSQTXyF8LKMdVAbmW8MFRf7GQCLY8Cmw1GmdO&ln=en
+**Versão:** 2.0.1  
 
-Nesse projeto foi utilizado os seguintes programas!
+Este repositório contém a **documentação do projeto** desenvolvido no contexto acadêmico, integrando as disciplinas de **Engenharia de Software**, **Programação Orientada a Objetos (POO)** e **Banco de Dados**.
 
-BANCO DE DADOS:
-<br>-Xampp(utilizado em maquina própria)
-<br>-MYSQL WorkBanch(utilizado em sala de aula pois os computadores não possuem xampp)
-https://www.apachefriends.org/pt_br/index.html (xampp)
-https://www.apachefriends.org/pt_br/index.html (mySQL)
+O projeto teve como foco o **planejamento, modelagem e prototipação de um sistema**, passando pelas etapas de levantamento de requisitos, organização do desenvolvimento, modelagem de dados e definição da interface do usuário.
 
-CONFECÇÂO DO CÓDIGO:
-<br>-VSCODE(utilizado em sala e em casa)
-https://code.visualstudio.com/
-<br>-INTELLIJ IDEA(utilizado em casa)
-https://lp.jetbrains.com/intellij-idea-promo/?msclkid=9677849738a811430156e31354198cfa&utm_source=bing&utm_medium=cpc&utm_campaign=AMER_en_BR_IDEA_Branded&utm_term=intellij%20IDEA&utm_content=intellij%20idea
-  
-PROTOTIPAÇÃO DO PROJETO:
-<br>-GitHub(utilizado para a postagem de documentos e arquivos)
-https://app.diagrams.net/
-<br>-Quant-Ux(utilizado para prototipação do projeto)
-https://quant-ux.com/
-<br>-Jira(utilizado para monitoramento de tarefas e acompanhamento de projeto)
-https://www.atlassian.com/br/software/jira
+> Observação: a implementação foi realizada em ambiente local (bootável).  
+> Por esse motivo, o repositório contém **apenas a documentação e os artefatos do projeto**, não o código executável.
 
-DIAGRAMAS E TABELAS:
-<br>-Draw.io (utilizado em sala e em casa)
-https://app.diagrams.net/
+---
 
-CONFECÇÂO DE DOCUMENTOS:
-<br>-OverLeafLATEX(utilizado para documentos, sendo usado em sala e em casa)
-https://www.overleaf.com/
+## Objetivos do Projeto
+
+- Aplicar conceitos de Engenharia de Software no desenvolvimento de sistemas
+- Realizar modelagem conceitual e lógica de banco de dados
+- Estruturar a solução com base em Programação Orientada a Objetos
+- Desenvolver protótipos navegáveis da aplicação
+- Organizar o projeto utilizando práticas de metodologias ágeis
+
+---
+
+## Ferramentas e Tecnologias Utilizadas
+
+### Banco de Dados
+- MySQL  
+- XAMPP (ambiente local)
+
+### Desenvolvimento e Edição
+- Visual Studio Code  
+- IntelliJ IDEA  
+
+### Prototipação e Modelagem
+- Quant-UX (prototipação de interfaces)
+- Draw.io (diagramas e modelagens)
+
+### Gerenciamento do Projeto
+- Jira (organização de tarefas e acompanhamento do projeto)
+
+### Documentação
+- Overleaf (LaTeX)
+
+---
+
+## Conteúdo do Repositório
+
+- Documentação completa do projeto
+- Diagramas e modelagens do sistema
+- Protótipos de interface
+- Descrição das etapas de desenvolvimento e organização do projeto
+
+---
+
+## Links Complementares
+
+> Os links abaixo são opcionais e servem apenas como material complementar.
+
+- Protótipo (Quant-UX)  
+- Gerenciamento do projeto (Jira – acesso restrito)
+
+---
